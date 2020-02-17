@@ -1,14 +1,17 @@
+//require variables
 require('dotenv').config();
 let keys = require('./keys');
 let axios = require('axios');
+let moment = require('moment');
 let Spotify = require('node-spotify-api');
 let spotify = new Spotify(keys.spotify);
 let fs = require('fs');
-
+//convert arguments to variables
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
 
+//format serach term based on command given
 function getLiriSearch() {
     liriSearch = '';
     if (liriTask === 'movie-this') {
@@ -38,12 +41,13 @@ function getLiriSearch() {
     }
 }
 
+//search omdb api and console log data
 function searchMovie() {
     var omdbApi = "http://www.omdbapi.com/?t=" + liriSearch + "&y=&plot=short&apikey=trilogy";
     axios.get(omdbApi).then(
         function(response) {
             console.log('================MOVIE=======================');
-            console.log('Title:' + response.data.Title);
+            console.log('Title: ' + response.data.Title);
             console.log("Release year: " + response.data.Year);
             console.log("IMDB rating: " + response.data.imdbRating);
             console.log("Rotten Tomatoes rating: " + response.data.Ratings[1].Value);
@@ -75,16 +79,19 @@ function searchMovie() {
         });
 }
 
+//search bands in town api and console log data
 function searchBands() {
     var bandsApi = 'https://rest.bandsintown.com/artists/' + liriSearch + '/events?app_id=codingbootcamp';
     axios.get(bandsApi).then(
         function(response) {
             //console.log(response.data[0].venue.name);
             for (var i = 0; i < response.data.length; i++) {
+                var eventDate = response.data[i].datetime;
+                var convertedDate = moment(eventDate, 'YYYY/MM/DD hh:mm:ss');
                 console.log('================EVENT=======================');
-                console.log('Venue name:' + response.data[i].venue.name);
-                console.log('Venue city:' + response.data[i].venue.city);
-                console.log('event date:' + response.data[i].datetime);
+                console.log('Venue name: ' + response.data[i].venue.name);
+                console.log('Venue city: ' + response.data[i].venue.city);
+                console.log('Event Date: ' + convertedDate.format("MMM Do, YYYY hh:mm"));
                 console.log('++++++++++++++++++++++++++++++++++++++++++++');
             }
         })
@@ -110,34 +117,33 @@ function searchBands() {
         });
 }
 
+//search spotify api for data behind song name and log data
 function spotifySong() {
     spotify
         .search({ 
             type: 'track', 
             query: liriSearch,
-            limit: 1
+            limit: 5
         })
         .then(function(response) {
-            for (var key in response) {
-                //console.log(response[key]);
+            //console.log(response.tracks.items);
+            const songs = response.tracks.items;
+            for (var i = 0; i < songs.length; i++) {
                 console.log('=============SPOTIFY-THIS-SONG===============');
                 //console.log(response[key].items[0]);
-                console.log('Artist Name: ' + response[key].items[0].artists[0].name);
-                console.log('Song Name: ' + response[key].items[0].name);
-                console.log('Preview song link: ' + response[key].items[0].external_urls['spotify']);
-                console.log('Song Album: ' + response[key].items[0].album.name);
-                console.log('=============================================');
-            }
-            //console.log(response.items[key]);
+                console.log('Artist Name: ' + songs[i].artists[0].name);
+                console.log('Song Name: ' + songs[i].name);
+                console.log('Preview song link: ' + songs[i].external_urls['spotify']);
+                console.log('Song Album: ' + songs[i].album.name);
+                console.log('---------------------------------------------');
+            }  
         })
         .catch(function(err) {
             console.log(err);
         });
-
-        //https://api.spotify.com/v1/search?query=all+the+small+things+&type=track&offset=0&limit=20
-        //node liri.js spotify-this-song all the small things
 }
 
+//read random.txt and do what it says
 function readRandom() {
     fs.readFile('random.txt', 'utf8', function(error, data) {
         // If the code experiences any errors it will log the error to the console.
@@ -162,21 +168,38 @@ function readRandom() {
       });
 }
 
+//log command and search history
+function logData() {
+    fs.appendFile('log.txt', liriTask + ',' + liriSearch + ',', function(err) {
+        if (err) {
+            console.log(err);
+        }
+        else {
+        console.log("content added to log");
+        }
+    });
+}
+
+//main application procedures
 switch (liriTask) {
     case 'movie-this':
         getLiriSearch();
         searchMovie();
+        logData();
         break;
     case 'concert-this':
         getLiriSearch();
         searchBands();
+        logData();
         break;
     case 'spotify-this-song':
         getLiriSearch();
         spotifySong();
+        logData();
         break;
     case 'do-what-it-says':
         readRandom();
+        logData();
         break;
     default:
         console.log('Not a recognized command');
