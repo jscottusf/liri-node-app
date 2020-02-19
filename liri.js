@@ -3,6 +3,7 @@ require('dotenv').config();
 let keys = require('./keys');
 let axios = require('axios');
 let moment = require('moment');
+let inquirer = require('inquirer');
 let Spotify = require('node-spotify-api');
 let spotify = new Spotify(keys.spotify);
 let fs = require('fs');
@@ -10,6 +11,7 @@ let fs = require('fs');
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
+
 
 //format serach term based on command given
 function getLiriSearch() {
@@ -174,33 +176,110 @@ function logData() {
         if (err) {
             console.log(err);
         }
-        else {
-        console.log("content added to log");
-        }
     });
 }
 
-//main application procedures
+//inquirer procedures
+// Create a "Prompt" with a series of questions.
+function promptUser() {
+    inquirer
+        .prompt([
+            {
+                type: 'list',
+                message: 'Select task...',
+                choices: ['movie-this', 'concert-this', 'spotify-this-song'],
+                name: 'liriPrompt'
+            },
+            {
+                type: 'input',
+                message: 'Enter search term',
+                name: 'promptSearch'
+            }
+        ])
+        .then(function(inquirerResponse) {
+            liriTask = inquirerResponse.liriPrompt;
+            if (liriTask === 'concert-this') {
+                liriSearch = inquirerResponse.promptSearch.replace(/\s+/g, '');
+                searchBands();
+                logData();
+            }
+            else if (liriTask === 'movie-this') {
+                liriSearch = inquirerResponse.promptSearch;
+                if (liriSearch) {
+                    searchMovie();
+                    logData(); 
+                }
+                else {
+                    liriSearch = 'Mr. Nobody';
+                    searchMovie();
+                    logData();
+                }
+                
+            }
+            else if (liriTask === 'spotify-this-song') {
+                liriSearch = inquirerResponse.promptSearch;
+                if (liriSearch) {
+                    spotifySong();
+                    logData();
+                }
+                else {
+                    liriSearch = 'The Sign';
+                    spotifySong();
+                    logData();
+                }
+            }
+            setTimeout(promptAgain, 2500);
+        });
+}
+
+function promptAgain() {
+    inquirer
+        .prompt([
+            {
+                type: "confirm",
+                message: "Would you like to search for anyting else?:",
+                name: "confirm",
+                default: true
+            }
+            ])
+        .then(function(inquirerResponse) {
+            // If the inquirerResponse confirms, we displays the inquirerResponse's username and pokemon from the answers.
+            if (inquirerResponse.confirm) {
+            console.clear();
+            promptUser();
+            }
+            else {
+            console.log('Auf Wiedersehen');
+            }
+        });
+}
+
+//main switchapplication procedures
 switch (liriTask) {
     case 'movie-this':
+        console.clear();
         getLiriSearch();
         searchMovie();
         logData();
         break;
     case 'concert-this':
+        console.clear();
         getLiriSearch();
         searchBands();
         logData();
         break;
     case 'spotify-this-song':
+        console.clear();
         getLiriSearch();
         spotifySong();
         logData();
         break;
     case 'do-what-it-says':
+        console.clear();
         readRandom();
         logData();
         break;
     default:
-        console.log('Not a recognized command');
+        console.clear();
+        promptUser();
 }
