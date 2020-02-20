@@ -1,12 +1,24 @@
-# Liri Node Application
+# LIRI Node Application
 
 The liri node app allows users to to find information via the following commands:
 - concert-this
 - movie-this
 - spotify-this-song
-- do-what-it-says
+- do-what-it-says (command line only)
 
-## Directions
+## Directions: OPTION ONE - Search LIRI using inquirer.js
+
+1. Open the console
+
+2. Navigate to the liri-node-app folder
+
+3. Input: node liri.js 
+
+4. Follow prompts to find concerts, movies, and spotify song names
+
+![inquire gif](./gifs/inquirejs.gif)
+
+## Directions: OPTION TWO - Search LIRI by including arguments in node liri.js command line
 
 1. Open the console
 

@@ -180,7 +180,6 @@ function logData() {
 }
 
 //inquirer procedures
-// Create a "Prompt" with a series of questions.
 function promptUser() {
     inquirer
         .prompt([
@@ -228,10 +227,11 @@ function promptUser() {
                     logData();
                 }
             }
-            setTimeout(promptAgain, 2500);
+            setTimeout(promptAgain, 2000);
         });
 }
 
+//prompt user for another search
 function promptAgain() {
     inquirer
         .prompt([
