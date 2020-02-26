@@ -11,10 +11,9 @@ let fs = require('fs');
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
-var count = 0;
 var bandData;
+var songData;
 let divider = '\n-----------------------------------------------------\n';
-
 
 //format serach term based on command given
 function getLiriSearch() {
@@ -70,26 +69,6 @@ function searchMovie() {
                 }
             });
         })
-        .catch(function(error) {
-          if (error.response) {
-            // The request was made and the server responded with a status code
-            // that falls out of the range of 2xx
-            console.log("---------------Data---------------");
-            console.log(error.response.data);
-            console.log("---------------Status---------------");
-            console.log(error.response.status);
-            console.log("---------------Status---------------");
-            console.log(error.response.headers);
-          } else if (error.request) {
-            // The request was made but no response was received
-            // `error.request` is an object that comes back with details pertaining to the error that occurred.
-            console.log(error.request);
-          } else {
-            // Something happened in setting up the request that triggered an Error
-            console.log("Error", error.message);
-          }
-          console.log(error.config);
-        });
 }
 
 //search bands in town api and console log data
@@ -116,26 +95,6 @@ function searchBands() {
                 });
             }
         })
-        .catch(function(error) {
-          if (error.response) {
-            // The request was made and the server responded with a status code
-            // that falls out of the range of 2xx
-            console.log("---------------Data---------------");
-            console.log(error.response.data);
-            console.log("---------------Status---------------");
-            console.log(error.response.status);
-            console.log("---------------Status---------------");
-            console.log(error.response.headers);
-          } else if (error.request) {
-            // The request was made but no response was received
-            // `error.request` is an object that comes back with details pertaining to the error that occurred.
-            console.log(error.request);
-          } else {
-            // Something happened in setting up the request that triggered an Error
-            console.log("Error", error.message);
-          }
-          console.log(error.config);
-        });
 }
 
 //search spotify api for data behind song name and log data
@@ -150,18 +109,23 @@ function spotifySong() {
             //console.log(response.tracks.items);
             const songs = response.tracks.items;
             for (var i = 0; i < songs.length; i++) {
-                console.log('=============SPOTIFY-THIS-SONG===============');
-                //console.log(response[key].items[0]);
-                console.log('Artist Name: ' + songs[i].artists[0].name);
-                console.log('Song Name: ' + songs[i].name);
-                console.log('Preview song link: ' + songs[i].external_urls['spotify']);
-                console.log('Song Album: ' + songs[i].album.name);
-                console.log('---------------------------------------------');
+                songData = [];
+                songData = [
+                    '=============SPOTIFY-THIS-SONG===============',
+                    'Artist Name: ' + songs[i].artists[0].name,
+                    'Song Name: ' + songs[i].name,
+                    'Preview song link: ' + songs[i].external_urls['spotify'],
+                    'Song Album: ' + songs[i].album.name,
+                    '---------------------------------------------'
+                ].join('\n');
+                console.log(songData);
+                fs.appendFile('log.txt', songData + divider, function(err) {
+                    if (err) {
+                        console.log(err);
+                    }
+                });
             }  
         })
-        .catch(function(err) {
-            console.log(err);
-        });
 }
 
 //read random.txt and do what it says

@@ -1,15 +1,4 @@
 ================MOVIE=======================
-Title: Jojo Rabbit
-Release year: 2019
-IMDB rating: 8.0
-Rotten Tomatoes rating: 80%
-Nation: New Zealand, Czech Republic, USA
-Language: English, German
-Plot: A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
-Actors: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi
-=============================================
------------------------------------------------------
-================MOVIE=======================
 Title: Frozen II
 Release year: 2019
 IMDB rating: 7.2
@@ -21,18 +10,6 @@ Actors: Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff
 =============================================
 -----------------------------------------------------
 ================EVENT=======================
-Venue name: Williwaw Social
-Venue city: Anchorage
-Event Date: Mar 27th, 2020 08:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
-Venue name: Sitzmark Bar & Grill
-Venue city: Girdwood
-Event Date: Mar 28th, 2020 08:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
 Venue name: The Showbox
 Venue city: Seattle
 Event Date: Feb 25th, 2020 07:00
@@ -42,6 +19,12 @@ Event Date: Feb 25th, 2020 07:00
 Venue name: The Showbox
 Venue city: Seattle
 Event Date: Feb 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ August Hall
+Venue city: San Francisco
+Event Date: Feb 28th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
@@ -57,24 +40,6 @@ Event Date: Mar 1st, 2020 11:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
-Venue name: Ben Gibbard Solo Show @ August Hall
-Venue city: San Francisco
-Event Date: Feb 28th, 2020 07:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
-Venue name: UNwineD
-Venue city: Panama City Beach
-Event Date: Mar 21st, 2020 05:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
-Venue name: Ben Gibbard Solo Show @ Bijou Theatre
-Venue city: Knoxville
-Event Date: Apr 23rd, 2020 07:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
 Venue name: Ben Gibbard Solo Show @ Jefferson Theater
 Venue city: Charlottesville
 Event Date: Apr 25th, 2020 07:00
@@ -87,9 +52,9 @@ Event Date: Apr 26th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
-Venue name: Ben Gibbard Solo Show @ Charleston Music Hall
-Venue city: Charleston
-Event Date: Apr 28th, 2020 07:00
+Venue name: Ben Gibbard Solo Show @ Stuart's Opera House
+Venue city: Nelsonville
+Event Date: Apr 24th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
@@ -105,15 +70,9 @@ Event Date: Apr 30th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
-Venue name: Ben Gibbard Solo Show @ Stuart's Opera House
-Venue city: Nelsonville
-Event Date: Apr 24th, 2020 07:00
-++++++++++++++++++++++++++++++++++++++++++++
------------------------------------------------------
-================EVENT=======================
-Venue name: ACL Live at The Moody Theater
-Venue city: Austin
-Event Date: May 21st, 2020 06:00
+Venue name: Corona Capital Festival
+Venue city: Guadalajara
+Event Date: May 16th, 2020 11:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
@@ -123,9 +82,9 @@ Event Date: May 19th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
-Venue name: Corona Capital Festival
-Venue city: Guadalajara
-Event Date: May 16th, 2020 11:00
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 21st, 2020 06:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
 ================EVENT=======================
@@ -140,6 +99,94 @@ Venue city: Evanston
 Event Date: Aug 7th, 2020 07:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Bijou Theatre
+Venue city: Knoxville
+Event Date: Apr 23rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Charleston Music Hall
+Venue city: Charleston
+Event Date: Apr 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: UNwineD
+Venue city: Panama City Beach
+Event Date: Mar 21st, 2020 05:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Piebald
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/2T5PQWnnlf1cQaIyK6vH3i
+Song Album: We Are the Only Friends We Have
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Air Supply
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/3aXxmNFnIwL2r38pC34UUe
+Song Album: Lost in Love
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Danger Dreams
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/74zd4WZdUkrtQa0amoGXvP
+Song Album: Stay
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: A.A. Bondy
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1c2x8YagO3tdX9WQOeu0Yt
+Song Album: American Hearts
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Shawn James & the Shapeshifters
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1hZA4LQBJsudPC8iBRU8kY
+Song Album: The Covers
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Backstreet Boys
+Song Name: I Want It That Way
+Preview song link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Song Album: The Hits--Chapter One
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Mick Jensen
+Song Name: I Want It That Way
+Preview song link: https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd
+Song Album: I Want It That Way
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Dynamite Boy
+Song Name: I Want It That Way
+Preview song link: https://open.spotify.com/track/0X5ygHsca3pJ3KErPsXhGc
+Song Album: Punk Goes Pop
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Tyler and Mark
+Song Name: I Want It That Way
+Preview song link: https://open.spotify.com/track/5c2CckYG203pzNuwLh5sAI
+Song Album: Beautiful Dreams
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Anthem Lights
+Song Name: I Want It That Way
+Preview song link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Song Album: Covers Part IV
+---------------------------------------------
+-----------------------------------------------------
 ================MOVIE=======================
 Title: Frozen
 Release year: 2013
@@ -150,4 +197,27 @@ Language: English, Norwegian
 Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 =============================================
+-----------------------------------------------------
+================MOVIE=======================
+Title: Jojo Rabbit
+Release year: 2019
+IMDB rating: 8.0
+Rotten Tomatoes rating: 80%
+Nation: New Zealand, Czech Republic, USA
+Language: English, German
+Plot: A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
+Actors: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi
+=============================================
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Williwaw Social
+Venue city: Anchorage
+Event Date: Mar 27th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Sitzmark Bar & Grill
+Venue city: Girdwood
+Event Date: Mar 28th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
