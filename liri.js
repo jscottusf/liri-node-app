@@ -11,6 +11,8 @@ let fs = require('fs');
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
+var count = 0;
+var bandData;
 let divider = '\n-----------------------------------------------------\n';
 
 
@@ -67,16 +69,6 @@ function searchMovie() {
                     console.log(err);
                 }
             });
-            // console.log('================MOVIE=======================');
-            // console.log('Title: ' + response.data.Title);
-            // console.log("Release year: " + response.data.Year);
-            // console.log("IMDB rating: " + response.data.imdbRating);
-            // console.log("Rotten Tomatoes rating: " + response.data.Ratings[1].Value);
-            // console.log("Nation: " + response.data.Country);
-            // console.log("Language: " + response.data.Language);
-            // console.log("Plot: " + response.data.Plot);
-            // console.log("Actors: " + response.data.Actors);
-            // console.log('=============================================');
         })
         .catch(function(error) {
           if (error.response) {
@@ -105,15 +97,23 @@ function searchBands() {
     var bandsApi = 'https://rest.bandsintown.com/artists/' + liriSearch + '/events?app_id=codingbootcamp';
     axios.get(bandsApi).then(
         function(response) {
-            //console.log(response.data[0].venue.name);
             for (var i = 0; i < response.data.length; i++) {
+                bandData = [];
                 var eventDate = response.data[i].datetime;
                 var convertedDate = moment(eventDate, 'YYYY/MM/DD hh:mm:ss');
-                console.log('================EVENT=======================');
-                console.log('Venue name: ' + response.data[i].venue.name);
-                console.log('Venue city: ' + response.data[i].venue.city);
-                console.log('Event Date: ' + convertedDate.format("MMM Do, YYYY hh:mm"));
-                console.log('++++++++++++++++++++++++++++++++++++++++++++');
+                bandData = [
+                    '================EVENT=======================',
+                    'Venue name: ' + response.data[i].venue.name,
+                    'Venue city: ' + response.data[i].venue.city,
+                    'Event Date: ' + convertedDate.format("MMM Do, YYYY hh:mm"),
+                    '++++++++++++++++++++++++++++++++++++++++++++'
+                ].join('\n');
+                console.log(bandData);
+                fs.appendFile('log.txt', bandData + divider, function(err) {
+                    if (err) {
+                        console.log(err);
+                    }
+                });
             }
         })
         .catch(function(error) {

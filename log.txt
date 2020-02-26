@@ -20,3 +20,134 @@ Plot: Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancien
 Actors: Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff
 =============================================
 -----------------------------------------------------
+================EVENT=======================
+Venue name: Williwaw Social
+Venue city: Anchorage
+Event Date: Mar 27th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Sitzmark Bar & Grill
+Venue city: Girdwood
+Event Date: Mar 28th, 2020 08:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: The Showbox
+Venue city: Seattle
+Event Date: Feb 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: The Showbox
+Venue city: Seattle
+Event Date: Feb 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Tempe Beach Park
+Venue city: Tempe
+Event Date: Feb 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Innings Festival
+Venue city: Tempe
+Event Date: Mar 1st, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ August Hall
+Venue city: San Francisco
+Event Date: Feb 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: UNwineD
+Venue city: Panama City Beach
+Event Date: Mar 21st, 2020 05:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Bijou Theatre
+Venue city: Knoxville
+Event Date: Apr 23rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Jefferson Theater
+Venue city: Charlottesville
+Event Date: Apr 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carnegie Lecture Hall
+Venue city: Pittsburgh
+Event Date: Apr 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Charleston Music Hall
+Venue city: Charleston
+Event Date: Apr 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Georgia Theatre
+Venue city: Athens
+Event Date: Apr 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carolina Theatre
+Venue city: Durham
+Event Date: Apr 30th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Stuart's Opera House
+Venue city: Nelsonville
+Event Date: Apr 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 21st, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Teatro Metropolitan
+Venue city: Ciudad De México
+Event Date: May 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Corona Capital Festival
+Venue city: Guadalajara
+Event Date: May 16th, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 22nd, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Out of Space at Canal Shores
+Venue city: Evanston
+Event Date: Aug 7th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================MOVIE=======================
+Title: Frozen
+Release year: 2013
+IMDB rating: 7.5
+Rotten Tomatoes rating: 90%
+Nation: USA
+Language: English, Norwegian
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+=============================================
+-----------------------------------------------------
