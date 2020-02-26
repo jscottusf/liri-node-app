@@ -1,1 +1,22 @@
-concert-this,Piebald,spotify-this-song,The Sweater Song ,movie-this,Frozen II ,movie-this,Mr. Nobody,spotify-this-song,The Sign,do-what-it-says,undefined,movie-this,Frozen II ,movie-this,Frozen II ,concert-this,GreenDay,concert-this,Weezer,spotify-this-song,sweater song ,concert-this,weezer,spotify-this-song,the sweater song ,concert-this,Piebald,concert-this,GreenDay,concert-this,weezer,concert-this,Piebald,spotify-this-song,undone ,movie-this,,movie-this,,concert-this,Piebald,movie-this,,concert-this,greenday,movie-this,,movie-this,,movie-this,,movie-this,froze,movie-this,Frozen,movie-this,Frozen II,movie-this,,movie-this,Frozen,spotify-this-song,Undone,movie-this,,movie-this,,movie-this,Frozen,movie-this,Frozen II,movie-this,,movie-this,Mr. Nobody,movie-this,Frozen II,spotify-this-song,Undone,movie-this,Mr. Nobody,spotify-this-song,The Ace,do-what-it-says,undefined,spotify-this-song,undone,concert-this,Slipknot,concert-this,Piebald,spotify-this-song,American Hearts,movie-this,Jojo Rabbit,concert-this,Piebald,spotify-this-song,undone,do-what-it-says,undefined,concert-this,Piebald,spotify-this-song,undone ,movie-this,Frozen II ,movie-this,Frozen II,concert-this,Piebald,movie-this,Silver Linings Playbook,concert-this,Piebald,movie-this,Frozen II ,movie-this,Frozen II,concert-this,Piebald,movie-this,Frozen II,movie-this,Frozen II,concert-this,Piebald,movie-this,Frozen II,concert-this,Piebald,spotify-this-song,undone,spotify-this-song,american hearts,movie-this,frozen ,movie-this,Jojo Rabbit,concert-this,Piebald,concert-this,GreenDay,concert-this,slipknot,movie-this,Jojo Rabbit,movie-this,Jojo Rabbit,concert-this,Piebald,movie-this,Jojo rabbit ,concert-this,Piebald,concert-this,Piebald,spotify-this-song,undone,concert-this,Piebald,do-what-it-says,undefined,movie-this,Frozen II,concert-this,Piebald,movie-this,Saving Private Ryan,movie-this,Schindler's List,concert-this,Piebald,movie-this,Jojo Rabbit,movie-this,Jojo Rabbit,concert-this,Slipknot,spotify-this-song,undone,movie-this,Frozen,movie-this,Frozen,concert-this,Piebald,spotify-this-song,undone,movie-this,Jojo Rabbit,movie-this,Jojo Rabbit,movie-this,Silver Linings Playbook,concert-this,Piebald,spotify-this-song,undone,spotify-this-song,american hearts,concert-this,Weezer,concert-this,piebald,movie-this,moana,concert-this,SystemofaDown,concert-this,StrFkr,concert-this,Deathcabforcutie,movie-this,Jojo Rabbit,concert-this,DeathcabforCutie,movie-this,Jojo Rabbit,concert-this,DeathcabforCuit,movie-this,Jojo Rabbit,concert-this,Deathcabforcutie,spotify-this-song,Undone,movie-this,Jojo Rabbit,concert-this,Deathcabforcutie,movie-this,Jojo Rabbit,concert-this,Deathcabforcutie,spotify-this-song,American Hearts,movie-this,Jojo Rabbit,concert-this,DeathcabforCutie,spotify-this-song,American Hearts,spotify-this-song,memories,movie-this,Jojo Rabbit,movie-this,Frozen II,concert-this,Maroon5,spotify-this-song,gold rush,movie-this,Shrek,movie-this,The Pianist,concert-this,strfkr,spotify-this-song,american hearts,
+================MOVIE=======================
+Title: Jojo Rabbit
+Release year: 2019
+IMDB rating: 8.0
+Rotten Tomatoes rating: 80%
+Nation: New Zealand, Czech Republic, USA
+Language: English, German
+Plot: A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
+Actors: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi
+=============================================
+-----------------------------------------------------
+================MOVIE=======================
+Title: Frozen II
+Release year: 2019
+IMDB rating: 7.2
+Rotten Tomatoes rating: 77%
+Nation: USA
+Language: English
+Plot: Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.
+Actors: Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff
+=============================================
+-----------------------------------------------------

@@ -11,6 +11,7 @@ let fs = require('fs');
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
+let divider = '\n-----------------------------------------------------\n';
 
 
 //format serach term based on command given
@@ -48,16 +49,34 @@ function searchMovie() {
     var omdbApi = "http://www.omdbapi.com/?t=" + liriSearch + "&y=&plot=short&apikey=trilogy";
     axios.get(omdbApi).then(
         function(response) {
-            console.log('================MOVIE=======================');
-            console.log('Title: ' + response.data.Title);
-            console.log("Release year: " + response.data.Year);
-            console.log("IMDB rating: " + response.data.imdbRating);
-            console.log("Rotten Tomatoes rating: " + response.data.Ratings[1].Value);
-            console.log("Nation: " + response.data.Country);
-            console.log("Language: " + response.data.Language);
-            console.log("Plot: " + response.data.Plot);
-            console.log("Actors: " + response.data.Actors);
-            console.log('=============================================');
+            var movieData = [
+                '================MOVIE=======================',
+                'Title: ' + response.data.Title,
+                'Release year: ' + response.data.Year,
+                'IMDB rating: ' + response.data.imdbRating,
+                'Rotten Tomatoes rating: ' + response.data.Ratings[1].Value,
+                'Nation: ' + response.data.Country,
+                'Language: ' + response.data.Language,
+                'Plot: ' + response.data.Plot,
+                'Actors: ' + response.data.Actors,
+                '============================================='
+            ].join('\n');
+            console.log(movieData);
+            fs.appendFile('log.txt', movieData + divider, function(err) {
+                if (err) {
+                    console.log(err);
+                }
+            });
+            // console.log('================MOVIE=======================');
+            // console.log('Title: ' + response.data.Title);
+            // console.log("Release year: " + response.data.Year);
+            // console.log("IMDB rating: " + response.data.imdbRating);
+            // console.log("Rotten Tomatoes rating: " + response.data.Ratings[1].Value);
+            // console.log("Nation: " + response.data.Country);
+            // console.log("Language: " + response.data.Language);
+            // console.log("Plot: " + response.data.Plot);
+            // console.log("Actors: " + response.data.Actors);
+            // console.log('=============================================');
         })
         .catch(function(error) {
           if (error.response) {
@@ -170,15 +189,6 @@ function readRandom() {
       });
 }
 
-//log command and search history
-function logData() {
-    fs.appendFile('log.txt', liriTask + ',' + liriSearch + ',', function(err) {
-        if (err) {
-            console.log(err);
-        }
-    });
-}
-
 //inquirer procedures
 function promptUser() {
     inquirer
@@ -200,18 +210,15 @@ function promptUser() {
             if (liriTask === 'concert-this') {
                 liriSearch = inquirerResponse.promptSearch.replace(/\s+/g, '');
                 searchBands();
-                logData();
             }
             else if (liriTask === 'movie-this') {
                 liriSearch = inquirerResponse.promptSearch;
                 if (liriSearch) {
                     searchMovie();
-                    logData(); 
                 }
                 else {
                     liriSearch = 'Mr. Nobody';
                     searchMovie();
-                    logData();
                 }
                 
             }
@@ -219,12 +226,10 @@ function promptUser() {
                 liriSearch = inquirerResponse.promptSearch;
                 if (liriSearch) {
                     spotifySong();
-                    logData();
                 }
                 else {
                     liriSearch = 'The Sign';
                     spotifySong();
-                    logData();
                 }
             }
             setTimeout(promptAgain, 2000);
@@ -260,24 +265,20 @@ switch (liriTask) {
         console.clear();
         getLiriSearch();
         searchMovie();
-        logData();
         break;
     case 'concert-this':
         console.clear();
         getLiriSearch();
         searchBands();
-        logData();
         break;
     case 'spotify-this-song':
         console.clear();
         getLiriSearch();
         spotifySong();
-        logData();
         break;
     case 'do-what-it-says':
         console.clear();
         readRandom();
-        logData();
         break;
     default:
         console.clear();
