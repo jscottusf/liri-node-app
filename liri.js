@@ -72,11 +72,12 @@ function searchBands() {
     var bandsApi = 'https://rest.bandsintown.com/artists/' + liriSearch + '/events?app_id=codingbootcamp';
     axios.get(bandsApi).then(
         function(response) {
+            var artist = response.data[0].artist.name
             for (var i = 0; i < response.data.length; i++) {
                 var eventDate = response.data[i].datetime;
                 var convertedDate = moment(eventDate, 'YYYY/MM/DD hh:mm:ss');
                 var bandData = [
-                    '================EVENT=======================',
+                    '=================' + artist + '=================',
                     'Venue name: ' + response.data[i].venue.name,
                     'Venue city: ' + response.data[i].venue.city,
                     'Event Date: ' + convertedDate.format("MMM Do, YYYY hh:mm"),
