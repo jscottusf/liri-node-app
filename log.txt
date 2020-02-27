@@ -221,3 +221,944 @@ Venue city: Girdwood
 Event Date: Mar 28th, 2020 08:00
 ++++++++++++++++++++++++++++++++++++++++++++
 -----------------------------------------------------
+================MOVIE=======================
+Title: Jojo Rabbit
+Release year: 2019
+IMDB rating: 8.0
+Rotten Tomatoes rating: 80%
+Nation: New Zealand, Czech Republic, USA
+Language: English, German
+Plot: A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
+Actors: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi
+=============================================
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Innings Festival
+Venue city: Tempe
+Event Date: Mar 1st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: SandJam Fest
+Venue city: Panama City Beach
+Event Date: Apr 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue city: Nürnberg
+Event Date: Jun 5th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ippodromo San Siro
+Venue city: Milan
+Event Date: Jun 10th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Beale Street Music Festival, 5/1-5/3 (Single Date TBA)
+Venue city: Memphis
+Event Date: May 1st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Groningen
+Event Date: Jun 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Wilrijk
+Event Date: Jun 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Rock For People
+Venue city: Hradec Kralove
+Event Date: Jun 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Parkbühne Wuhlheide
+Venue city: Berlin
+Event Date: Jun 3rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Firenze Rocks
+Venue city: Firenze
+Event Date: Jun 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: London
+Event Date: Jun 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Huddersfield
+Event Date: Jun 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Dublin
+Event Date: Jun 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Inkcarceration Music & Tattoo Festival
+Venue city: Mansfield
+Event Date: Jul 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: BECU Live Outdoor Venue
+Venue city: Airway Heights
+Event Date: Jul 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Seattle
+Event Date: Jul 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Cowlitz Ballroom
+Venue city: Ridgefield
+Event Date: Jul 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: San Francisco
+Event Date: Jul 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Glasgow
+Event Date: Jun 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Paris
+Event Date: Jun 13th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Commerce City
+Event Date: Jul 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: San Diego
+Event Date: Jul 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Los Angeles
+Event Date: Jul 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Wien
+Event Date: Jun 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Dallas
+Event Date: Jul 31st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Atlanta
+Event Date: Aug 8th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Minneapolis
+Event Date: Aug 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Chicago
+Event Date: Aug 13th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Venue city: Pittsburgh
+Event Date: Aug 15th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Hershey
+Event Date: Aug 16th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Venue city: Detroit
+Event Date: Aug 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Washington
+Event Date: Aug 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters 
+Venue city: Flushing
+Event Date: Aug 22nd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Toronto
+Event Date: Aug 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Boston
+Event Date: Aug 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Grand Theater at Foxwoods Resorts Casino
+Venue city: Ledyard
+Event Date: Aug 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Philadelphia
+Event Date: Aug 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Houston
+Event Date: Aug 1st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Docklands Stadium
+Venue city: Docklands
+Event Date: Nov 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Bankwest Stadium
+Venue city: Parramatta
+Event Date: Nov 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Suncorp Stadium
+Venue city: Milton
+Event Date: Nov 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Forsyth Barr Stadium
+Venue city: Dunedin
+Event Date: Nov 20th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Mt Smart Stadium
+Venue city: Auckland
+Event Date: Nov 22nd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: HBF Park
+Venue city: Perth
+Event Date: Nov 8th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Jacksonville
+Event Date: Aug 6th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Miami Gardens
+Event Date: Aug 5th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Piebald
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/2T5PQWnnlf1cQaIyK6vH3i
+Song Album: We Are the Only Friends We Have
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Air Supply
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/3aXxmNFnIwL2r38pC34UUe
+Song Album: Lost in Love
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Danger Dreams
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/74zd4WZdUkrtQa0amoGXvP
+Song Album: Stay
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: A.A. Bondy
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1c2x8YagO3tdX9WQOeu0Yt
+Song Album: American Hearts
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Shawn James & the Shapeshifters
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1hZA4LQBJsudPC8iBRU8kY
+Song Album: The Covers
+---------------------------------------------
+-----------------------------------------------------
+================MOVIE=======================
+Title: Jojo Rabbit
+Release year: 2019
+IMDB rating: 8.0
+Rotten Tomatoes rating: 80%
+Nation: New Zealand, Czech Republic, USA
+Language: English, German
+Plot: A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
+Actors: Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson, Taika Waititi
+=============================================
+-----------------------------------------------------
+================MOVIE=======================
+Title: Frozen
+Release year: 2013
+IMDB rating: 7.5
+Rotten Tomatoes rating: 90%
+Nation: USA
+Language: English, Norwegian
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+=============================================
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Singapore Indoor Stadium
+Venue city: Singapore
+Event Date: Mar 8th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Taipei Arena
+Venue city: Taipei
+Event Date: Mar 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: World Expo
+Venue city: Hong Kong
+Event Date: Mar 20th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: IMPACT Arena
+Venue city: Bangkok
+Event Date: Mar 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Intex
+Venue city: Higashi-osaka
+Event Date: Mar 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Jamsil Indoor Gym
+Venue city: Jamsil
+Event Date: Mar 22nd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Mall of Asia Arena
+Venue city: Manila
+Event Date: Mar 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Tokyo Messe
+Venue city: Tokyo
+Event Date: Mar 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Spartak Stadium
+Venue city: Moscow
+Event Date: May 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Makuhari Messe
+Venue city: Chiba-city
+Event Date: Mar 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Suvilahti
+Venue city: Helsinki
+Event Date: May 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Tele2 Arena
+Venue city: Stockholm
+Event Date: May 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Color Line Stadion
+Venue city: Ålesund
+Event Date: May 31st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Parkbühne Wuhlheide
+Venue city: Berlin
+Event Date: Jun 3rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue city: Nürnberg
+Event Date: Jun 5th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ippodromo San Siro
+Venue city: Milan
+Event Date: Jun 10th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Firenze Rocks
+Venue city: Firenze
+Event Date: Jun 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Paris
+Event Date: Jun 13th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Groningen
+Event Date: Jun 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Wilrijk
+Event Date: Jun 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Rock For People
+Venue city: Hradec Kralove
+Event Date: Jun 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Wien
+Event Date: Jun 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Glasgow
+Event Date: Jun 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: London
+Event Date: Jun 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Huddersfield
+Event Date: Jun 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Seattle
+Event Date: Jul 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: San Francisco
+Event Date: Jul 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + Amyl and the Sniffers
+Venue city: Dublin
+Event Date: Jun 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: San Diego
+Event Date: Jul 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Los Angeles
+Event Date: Jul 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Commerce City
+Event Date: Jul 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Dallas
+Event Date: Jul 31st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Houston
+Event Date: Aug 1st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Miami Gardens
+Event Date: Aug 5th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Jacksonville
+Event Date: Aug 6th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Atlanta
+Event Date: Aug 8th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Minneapolis
+Event Date: Aug 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Pittsburgh
+Event Date: Aug 15th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Hershey
+Event Date: Aug 16th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Chicago
+Event Date: Aug 13th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Detroit
+Event Date: Aug 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Washington
+Event Date: Aug 21st, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Flushing
+Event Date: Aug 22nd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Toronto
+Event Date: Aug 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Boston
+Event Date: Aug 27th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue city: Philadelphia
+Event Date: Aug 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: HBF Park
+Venue city: Perth
+Event Date: Nov 8th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Docklands Stadium
+Venue city: Docklands
+Event Date: Nov 11th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Bankwest Stadium
+Venue city: Parramatta
+Event Date: Nov 14th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Suncorp Stadium
+Venue city: Milton
+Event Date: Nov 17th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Forsyth Barr Stadium
+Venue city: Dunedin
+Event Date: Nov 20th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Mt Smart Stadium
+Venue city: Auckland
+Event Date: Nov 22nd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: The Showbox
+Venue city: Seattle
+Event Date: Feb 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ August Hall
+Venue city: San Francisco
+Event Date: Feb 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Bijou Theatre
+Venue city: Knoxville
+Event Date: Apr 23rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Stuart's Opera House
+Venue city: Nelsonville
+Event Date: Apr 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Jefferson Theater
+Venue city: Charlottesville
+Event Date: Apr 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carnegie Lecture Hall
+Venue city: Pittsburgh
+Event Date: Apr 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Charleston Music Hall
+Venue city: Charleston
+Event Date: Apr 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Georgia Theatre
+Venue city: Athens
+Event Date: Apr 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carolina Theatre
+Venue city: Durham
+Event Date: Apr 30th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Corona Capital Festival
+Venue city: Guadalajara
+Event Date: May 16th, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Teatro Metropolitan
+Venue city: Ciudad De México
+Event Date: May 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Tempe Beach Park
+Venue city: Tempe
+Event Date: Feb 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 22nd, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: UNwineD
+Venue city: Panama City Beach
+Event Date: Mar 21st, 2020 05:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 21st, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Innings Festival
+Venue city: Tempe
+Event Date: Mar 1st, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Out of Space at Canal Shores
+Venue city: Evanston
+Event Date: Aug 7th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Piebald
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/2T5PQWnnlf1cQaIyK6vH3i
+Song Album: We Are the Only Friends We Have
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Shawn James & the Shapeshifters
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1hZA4LQBJsudPC8iBRU8kY
+Song Album: The Covers
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Daniel E. Johnson
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/5LMYkJYzRJZBe6PeyEnMSU
+Song Album: All We Ever Knew
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: A.A. Bondy
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/1c2x8YagO3tdX9WQOeu0Yt
+Song Album: American Hearts
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Danger Dreams
+Song Name: American Hearts
+Preview song link: https://open.spotify.com/track/74zd4WZdUkrtQa0amoGXvP
+Song Album: Stay
+---------------------------------------------
+-----------------------------------------------------
+================MOVIE=======================
+Title: Shrek
+Release year: 2001
+IMDB rating: 7.8
+Rotten Tomatoes rating: 88%
+Nation: USA
+Language: English
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+=============================================
+-----------------------------------------------------
+================EVENT=======================
+Venue name: The Showbox
+Venue city: Seattle
+Event Date: Feb 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ August Hall
+Venue city: San Francisco
+Event Date: Feb 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Tempe Beach Park
+Venue city: Tempe
+Event Date: Feb 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Innings Festival
+Venue city: Tempe
+Event Date: Mar 1st, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: UNwineD
+Venue city: Panama City Beach
+Event Date: Mar 21st, 2020 05:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Bijou Theatre
+Venue city: Knoxville
+Event Date: Apr 23rd, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carnegie Lecture Hall
+Venue city: Pittsburgh
+Event Date: Apr 26th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Jefferson Theater
+Venue city: Charlottesville
+Event Date: Apr 25th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Stuart's Opera House
+Venue city: Nelsonville
+Event Date: Apr 24th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Corona Capital Festival
+Venue city: Guadalajara
+Event Date: May 16th, 2020 11:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Teatro Metropolitan
+Venue city: Ciudad De México
+Event Date: May 19th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 21st, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: ACL Live at The Moody Theater
+Venue city: Austin
+Event Date: May 22nd, 2020 06:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Out of Space at Canal Shores
+Venue city: Evanston
+Event Date: Aug 7th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Carolina Theatre
+Venue city: Durham
+Event Date: Apr 30th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Charleston Music Hall
+Venue city: Charleston
+Event Date: Apr 28th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+================EVENT=======================
+Venue name: Ben Gibbard Solo Show @ Georgia Theatre
+Venue city: Athens
+Event Date: Apr 29th, 2020 07:00
+++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Weezer
+Song Name: Undone - The Sweater Song
+Preview song link: https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV
+Song Album: Weezer
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Haley Reinhart
+Song Name: Undone
+Preview song link: https://open.spotify.com/track/1KREZwQqD5MOIX2TyDnX5D
+Song Album: Listen Up!
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Korn
+Song Name: Coming Undone
+Preview song link: https://open.spotify.com/track/6p2liQLGoDaLXgND68bfVt
+Song Album: See You On the Other Side
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: anders
+Song Name: Undone
+Preview song link: https://open.spotify.com/track/6yClfTSDF0YmPigEYwx8gZ
+Song Album: Twos
+---------------------------------------------
+-----------------------------------------------------
+=============SPOTIFY-THIS-SONG===============
+Artist Name: Joe Nichols
+Song Name: Undone
+Preview song link: https://open.spotify.com/track/7e2fhkjIMoguzTxQFXRMtO
+Song Album: Undone
+---------------------------------------------
+-----------------------------------------------------

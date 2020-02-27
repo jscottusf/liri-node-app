@@ -1,4 +1,3 @@
-//require variables
 require('dotenv').config();
 let keys = require('./keys');
 let axios = require('axios');
@@ -7,15 +6,12 @@ let inquirer = require('inquirer');
 let Spotify = require('node-spotify-api');
 let spotify = new Spotify(keys.spotify);
 let fs = require('fs');
-//convert arguments to variables
 let liriArr = process.argv;
 let liriTask = liriArr[2];
 let liriSearch;
-var bandData;
-var songData;
 let divider = '\n-----------------------------------------------------\n';
 
-//format serach term based on command given
+//format search term based on command given
 function getLiriSearch() {
     liriSearch = '';
     if (liriTask === 'movie-this') {
@@ -77,10 +73,9 @@ function searchBands() {
     axios.get(bandsApi).then(
         function(response) {
             for (var i = 0; i < response.data.length; i++) {
-                bandData = [];
                 var eventDate = response.data[i].datetime;
                 var convertedDate = moment(eventDate, 'YYYY/MM/DD hh:mm:ss');
-                bandData = [
+                var bandData = [
                     '================EVENT=======================',
                     'Venue name: ' + response.data[i].venue.name,
                     'Venue city: ' + response.data[i].venue.city,
@@ -109,8 +104,7 @@ function spotifySong() {
             //console.log(response.tracks.items);
             const songs = response.tracks.items;
             for (var i = 0; i < songs.length; i++) {
-                songData = [];
-                songData = [
+                var songData = [
                     '=============SPOTIFY-THIS-SONG===============',
                     'Artist Name: ' + songs[i].artists[0].name,
                     'Song Name: ' + songs[i].name,
